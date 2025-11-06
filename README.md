@@ -12,17 +12,17 @@
     <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/2022eb9e-0a5e-4307-a97e-98164a38f76b" alt="게임 플레이 1" width="100%"/>
       <br/>
-      <b>게임 플레이 1</b>
+      <b>VR Hands 사용</b>
     </td>
     <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/45dcd774-e7d3-4d75-9f9f-dc71f8f40479" alt="게임 플레이 2" width="100%"/>
       <br/>
-      <b>게임 플레이 2</b>
+      <b>게임 인터렉션</b>
     </td>
     <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/d6e5eb78-14cb-46c0-8035-3c5267641213" alt="게임 플레이 3" width="100%"/>
       <br/>
-      <b>게임 플레이 3</b>
+      <b>게임 인터렉션2</b>
     </td>
   </tr>
 </table>
